@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
+# 
 """
 BARNSLEY FERN
-
-By: it's literally monique
 """
 
 # import libraries needed for program
